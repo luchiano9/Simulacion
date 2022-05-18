@@ -1,0 +1,8 @@
+Este trabajo tiene como objetivo analizar cómo se realiza la generación de números pseudoaleatorios abordados por 3 algoritmos diferentes y 4 test diferentes. La programación del trabajo se realizó
+con el lenguaje Python en su versión 3.7.
+
+Introducción
+
+Se quiere simular y poder observar la generación de números pseudoaleatorios a través de la utilización de 3 algoritmos.
+Éstos, serán programados por nosotros y uno será propio del lenguaje Python y de la librería Random. Para el análisis
+de estos generadores utilizaremos determinados tests para evaluar el comportamiento de los resultados obtenidos.
