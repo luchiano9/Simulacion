@@ -1,0 +1,3 @@
+El siguiente documento tiene como objetivo analizar los rendimientos y resultados de una simulación
+de un modelo M/M/1 y de inventario. Se realizó un programa en programa en Python y se implementó
+el modelo en Anylogic para obtener estos resultados y compararlos con los valores teóricos esperados.
